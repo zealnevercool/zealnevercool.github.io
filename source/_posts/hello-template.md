@@ -1,5 +1,5 @@
 ---
-title: Hexo Template
+title: 个人主页
 ---
 
 ## 一个标题
